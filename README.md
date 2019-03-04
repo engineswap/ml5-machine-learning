@@ -24,13 +24,14 @@ To run:
 
 # Regressive webcam classification
 ```
-This program uses regression to classify things on the video feed. Im using a slider and a add image button to train the model.
+This program uses regression to classify things on the video feed. Im using a slider and a add image button
+to train the model.
 
 To run:
 1.) Download the folder
 2.) Open the HTML file]
-3.) Train the model by placing an image on the left side of the screen, and sliding the slider all the way to the left, do the 
-same for the right side.
+3.) Train the model by placing an image on the left side of the screen, and sliding the slider all the way to 
+the left, do the same for the right side.
 4.) Once you have enough images click train and wait for it to finish training. 
 5.) The purple box should follow your object around the screen.
 ```
