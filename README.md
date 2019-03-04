@@ -36,4 +36,4 @@ same for the right side.
 ```
 ![](https://i.gyazo.com/aa4d5955451bd4943bba8448cec0fbdd.png)
 ![](https://i.gyazo.com/aa0a8350672dd502314a91162a8fad72.png)
-![](https://i.gyazo.com/187c1759b1e2ad97067aca09f0a05e9c.mp4)
+![](https://i.gyazo.com/187c1759b1e2ad97067aca09f0a05e9c.gif?_ga=2.183972518.1214724132.1551657170-1992582956.1540343239)
