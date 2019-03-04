@@ -11,9 +11,10 @@ To run:
 ```
 ![](https://i.gyazo.com/366e563e8ee9b15b0b82c540b90e2bf7.jpg)
 
-#Webcam image classification
+# Webcam image classification
 ```
-This program is similar to the Image classification program above, however it uses mobileNet to try to identify what is on your webcam.
+This program is similar to the Image classification program above, however it uses mobileNet to try to identify 
+what is on your webcam.
 
 To run:
 1.) Download the folder
